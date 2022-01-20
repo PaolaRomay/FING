@@ -1,0 +1,9 @@
+e 0 0
+e 0 1 0J
+e 1 0J 0
+e 1 0J 1 0J
+e 2 1E 3B   1 1E
+e 2 3B 1E   1 1E
+e 1 1E   2 1E 3B
+e 1 1E   2 3B 1E
+q

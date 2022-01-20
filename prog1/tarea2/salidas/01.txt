@@ -1,0 +1,3 @@
+Las cartas son iguales
+Las cartas NO son iguales
+Las cartas NO son iguales

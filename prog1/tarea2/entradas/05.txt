@@ -1,0 +1,7 @@
+m 8 1 1B
+t
+m 8 7 1B 2C 3E 4O 5B 6C 7E
+t
+m 8 8 1B 2C 3E 4O 5B 6C 7E 8O
+t
+q

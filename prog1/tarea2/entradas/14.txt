@@ -1,0 +1,21 @@
+e 2 3B 1E   2 3B 1E
+e 2 1E 3B   2 3B 1E
+e 2 3B 1E   2 3B 1O
+e 2 1E 3B   2 3B 1O
+e 2 3B 1O   2 3B 1E
+e 2 3B 1O   2 1E 3B
+e 2 3B 1O   2 1E 3C
+e 3 1B 2C 3E   3 1B 2E 3B 
+e 3 1B 2C 3E   3 2E 1B 3B 
+e 3 1B 2C 3E   3 2E 3B 1B 
+e 3 1B 2C 3E   3 2C 2E 3B 
+e 3 1B 2C 3E   3 2E 2C 3B 
+e 3 1B 2C 3E   3 2E 3B 2C 
+e 3 1B 2C 3E   3 3E 2E 3B 
+e 3 1B 2C 3E   3 2E 3E 3B 
+e 3 1B 2C 3E   3 2E 3B 3E 
+e 3 1B 2C 3E   3 1B 2C 3B 
+e 3 1B 2C 3E   3 3B 2C 1B 
+e 3 1B 2C 3E   3 3E 2E 1B 
+e 3 1O 2C 3B   3 3E 2E 1B 
+q

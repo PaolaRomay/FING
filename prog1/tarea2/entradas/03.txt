@@ -1,0 +1,5 @@
+s 1B 1B
+s 2C 2C
+s 5E 5E
+s 12O 12O
+q
